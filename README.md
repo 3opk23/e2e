@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/kristiqndolapchiev/db37d7e6-d330-4bf3-bff6-48a0ab529a0d/c12171c8-aebf-4d57-967a-a24c4151b3e8/_apis/work/boardbadge/30007e19-2766-458c-80d8-bba58ee86e6b)](https://dev.azure.com/kristiqndolapchiev/db37d7e6-d330-4bf3-bff6-48a0ab529a0d/_boards/board/t/c12171c8-aebf-4d57-967a-a24c4151b3e8/Microsoft.RequirementCategory)
 # @dollarshaveclub/e2e
 
 [![CircleCI](https://circleci.com/gh/dollarshaveclub/e2e/tree/master.svg?style=svg&circle-token=3c62580973ef5525cd6a68b7e57bd8d9e603a91e)](https://circleci.com/gh/dollarshaveclub/e2e/tree/master)
